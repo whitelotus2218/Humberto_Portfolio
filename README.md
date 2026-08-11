@@ -2,16 +2,17 @@
 Examples of Data Science Projects
 
 # Project 1: Customer Churn Analytics, behavioral profiling & predictive modeling
-Tech Stack & Pipelone:
-SQL Server ──> Excel (.xlsx) ──> Python (Scikit-Learn) ──> Power BI
- (Cleaning)      (Storage)        (Lasso, RF & LogReg)      (Dashboards)
-Data Cleaning & EDA (SQL Server):
--Handled missing values, data types, and initial exploration using SQL Server Management Studio.
--Preprocessing (Python): Applied Label Encoding, feature scaling, and feature selection via Lasso Regularization to isolate key drivers of churn.
-Machine Learning:
--Trained a baseline Logistic Regression model.
--Optimized Random Forest using RandomizedSearchCV.
--Evaluated models using ROC-AUC and classification reports.
-Business Intelligence (Power BI):
--Customer Profile Report: Behavioral segmentation and demographic overview.
--Churn Executive Dashboard: Churn rates and risk factor analysis.
+Tech Stack & Pipeline:
+SQL Server ──> Excel (.xlsx) ──> Python (Scikit-Learn) ──> Power BI <br/>
+ (Cleaning)      (Storage)        (Lasso, RF & LogReg)      (Dashboards)<br/>
+Data Cleaning & EDA (SQL Server):<br/>
+-Handled missing values, data types, and initial exploration using SQL Server Management Studio.<br/>
+Preprocessing (Python):<br/>
+-Applied Label Encoding, feature scaling, and feature selection via Lasso Regularization to isolate key drivers of churn.<br/>
+Machine Learning:<br/>
+-Trained a baseline Logistic Regression model.<br/>
+-Optimized Random Forest using RandomizedSearchCV.<br/>
+-Evaluated models using ROC-AUC and classification reports.<br/>
+Business Intelligence (Power BI):<br/>
+-Customer Profile Report: Behavioral segmentation and demographic overview.<br/>
+-Churn Executive Dashboard: Churn rates and risk factor analysis.<br/>
