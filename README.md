@@ -1,7 +1,7 @@
 # Humberto_Portfolio
 Examples of Data Science Projects
 
-# Project 1: Customer Churn Analytics: Behavioral Profiling & Predictive Modeling
+# [Project 1: Customer Churn Analytics: Behavioral Profiling & Predictive Modeling](https://github.com/whitelotus2218/Humberto_Portfolio)
 
 * **Tech Stack & Pipeline:**
   * SQL Server ──> Excel (`.xlsx`) ──> Python (Scikit-Learn) ──> Power BI
