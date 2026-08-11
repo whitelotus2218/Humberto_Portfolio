@@ -19,5 +19,19 @@ Examples of Data Science Projects
     * Behavioral segmentation and demographic overview.
   * **Churn Executive Dashboard:**
     * Churn rates and risk factor analysis.
-  ![](https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/churn_report1.png)
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/churn_report1.png" width="400" alt="Model Comparison">
+      <br>
+      <sub><b>Model Comparison</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/churn_report2.png" width="400" alt="ROC Curves">
+      <br>
+      <sub><b>ROC Curves</b></sub>
+    </td>
+  </tr>
+</table>
+  
 
