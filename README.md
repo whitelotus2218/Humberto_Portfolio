@@ -14,5 +14,7 @@ Machine Learning:<br/>
 -Optimized Random Forest using RandomizedSearchCV.<br/>
 -Evaluated models using ROC-AUC and classification reports.<br/>
 Business Intelligence (Power BI):<br/>
--Customer Profile Report: Behavioral segmentation and demographic overview.<br/>
--Churn Executive Dashboard: Churn rates and risk factor analysis.<br/>
+Customer Profile Report:<br/>
+-Behavioral segmentation and demographic overview.<br/>
+Churn Executive Dashboard:<br/>
+-Churn rates and risk factor analysis.<br/>
