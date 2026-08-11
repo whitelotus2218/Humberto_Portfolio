@@ -17,17 +17,17 @@ Examples of Data Science Projects
    <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/LassoChurn.png" width="200" alt="Model Comparison">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/LassoChurn.png" width="300" alt="Model Comparison">
       <br>
       <sub><b>Lasso Analysis</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/Metric1.png" width="200" alt="ROC Curves">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/Metric1.png" width="300" alt="ROC Curves">
       <br>
       <sub><b>RF and LR scores</b></sub>
     </td>
    <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/Metric2.png" width="200" alt="ROC Curves">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/Metric2.png" width="300" alt="ROC Curves">
       <br>
       <sub><b>RF and LR ROC curves</b></sub>
     </td>
