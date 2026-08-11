@@ -14,6 +14,26 @@ Examples of Data Science Projects
   * Trained a baseline Logistic Regression model.
   * Optimized Random Forest using `RandomizedSearchCV`.
   * Evaluated models using ROC-AUC and classification reports.
+   <table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/LassoChurn.png" width="200" alt="Model Comparison">
+      <br>
+      <sub><b>Lasso Analysis</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/Metric1.png" width="200" alt="ROC Curves">
+      <br>
+      <sub><b>RF and LR scores</b></sub>
+    </td>
+   <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/Metric2.png" width="200" alt="ROC Curves">
+      <br>
+      <sub><b>RF and LR ROC curves</b></sub>
+    </td>
+  </tr>
+</table>
+  
 * **Business Intelligence (Power BI):**
   * **Customer Profile Report:**
     * Behavioral segmentation and demographic overview.
