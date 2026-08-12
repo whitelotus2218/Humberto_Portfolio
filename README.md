@@ -109,3 +109,20 @@ Examples of Data Science Projects
   </tr>
 </table>
 
+
+# Project 3: Customer Shopping Behavior Analytics & SQL Data Warehouse
+
+* **Tech Stack & Pipeline:**
+  * Python (Pandas, SQLAlchemy), PostgreSQL, Power BI
+  * *(Cleaning & Transformation ──> PostgreSQL Database ──> Power BI Dashboard)*
+* **Data Cleaning & Preprocessing (Python):**
+  * Handled missing values in customer review ratings by imputing category-specific medians (robust to outliers).
+  * Standardized column names (lowercase and snake_case format) for better data querying.
+  * Engineered a new numerical metric (`purchase_frequency_days`) by mapping text-based purchase intervals to exact days.
+  * Verified data consistency (checked correlation between discounts and promo codes) and dropped redundant columns.
+* **Database Integration (PostgreSQL):**
+  * Established a secure database connection using SQLAlchemy (`psycopg2`).
+  * Loaded the cleaned Pandas DataFrame directly into a PostgreSQL database table (`customer`), setting up the foundation for structured querying.
+* **Business Intelligence (Power BI):**
+  * Developed an interactive executive dashboard connected to the PostgreSQL warehouse to analyze shopping trends, purchasing frequency, and customer spending habits.
+ 
