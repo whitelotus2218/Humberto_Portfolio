@@ -75,7 +75,7 @@ Examples of Data Science Projects
       <sub><b>Elbow Analysis</b></sub>
     </td>
     <td align="center">
-      <img src=" https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterResult.png" width="400" alt="ROC Curves">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterResult.png" width="400" alt="ROC Curves">
       <br>
       <sub><b>Cluster visualization</b></sub>
     </td>
