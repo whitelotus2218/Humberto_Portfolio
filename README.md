@@ -14,6 +14,7 @@ Examples of Data Science Projects
   * Trained a baseline Logistic Regression model.
   * Optimized Random Forest using `RandomizedSearchCV`.
   * Evaluated models using ROC-AUC and classification reports.
+
    <table>
   <tr>
     <td align="center">
@@ -33,12 +34,15 @@ Examples of Data Science Projects
     </td>
   </tr>
 </table>
+
   
 * **Business Intelligence (Power BI):**
   * **Customer Profile Report:**
     * Behavioral segmentation and demographic overview.
   * **Churn Executive Dashboard:**
     * Churn rates and risk factor analysis.
+
+
   <table>
   <tr>
     <td align="center">
@@ -67,6 +71,8 @@ Examples of Data Science Projects
 * **Dimensionality Reduction & Clustering:**
   * Implemented Principal Component Analysis (PCA) to reduce dimensionality into 3 principal components.
   * Used the Elbow Method (`KElbowVisualizer`) and applied **Agglomerative Clustering** (k=4) to segment customers into distinct behavioral groups.
+ 
+ 
  <table>
   <tr>
     <td align="center">
