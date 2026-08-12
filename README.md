@@ -90,7 +90,7 @@ Examples of Data Science Projects
   <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterProfileSpending.png " width="400" alt="Model Comparison">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterProfileSpend.png" width="400" alt="Model Comparison">
       <br>
       <sub><b>Cluster Spend Profile</b></sub>
     </td>
