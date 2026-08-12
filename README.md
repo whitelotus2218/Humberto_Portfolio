@@ -18,7 +18,7 @@ Examples of Data Science Projects
    <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/images/LassoChurn.png" width="300" alt="Model Comparison">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/LassoChurn.png" width="300" alt="Model Comparison">
       <br>
       <sub><b>Lasso Analysis</b></sub>
     </td>
