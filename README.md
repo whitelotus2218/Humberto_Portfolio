@@ -1,7 +1,7 @@
 # Humberto_Portfolio
 Examples of Data Science Projects
 
-# [Project 1: Customer Churn Analytics: Behavioral Profiling & Predictive Modeling](https://github.com/whitelotus2218/Humberto_Portfolio)
+# Project 1: Customer Churn Analytics: Behavioral Profiling & Predictive Modeling
 
 * **Tech Stack & Pipeline:**
   * SQL Server ──> Excel (`.xlsx`) ──> Python (Scikit-Learn) ──> Power BI
@@ -53,5 +53,24 @@ Examples of Data Science Projects
     </td>
   </tr>
 </table>
+
+# Project 2: Customer Segmentation & Marketing Campaign Analytics (Unsupervised Learning)
+
+* **Tech Stack & Pipeline:**
+  * Python (Pandas, Scikit-Learn, Seaborn, Matplotlib)
+  * *(Cleaning ──> Feature Engineering ──> Scaling ──> PCA ──> Clustering ──> Profiling)*
+* **Data Cleaning & Preprocessing:**
+  * Handled missing values and removed statistical outliers for age and income.
+  * Applied Label Encoding to categorical attributes and normalized features using `StandardScaler`.
+* **Feature Engineering:**
+  * Created key behavioral metrics: Customer tenure (`Customer_For`), total spending (`Spent`), household structure (`Family_Size`, `Is_Parent`, `Living_With`), and consolidated education levels.
+* **Dimensionality Reduction & Clustering:**
+  * Implemented Principal Component Analysis (PCA) to reduce dimensionality into 3 principal components.
+  * Used the Elbow Method (`KElbowVisualizer`) and applied **Agglomerative Clustering** (k=4) to segment customers into distinct behavioral groups.
+* **Business Insights & Campaign Analysis:**
+  * **Customer Behavioral Profiling:**
+    * Visualized cluster segments using income vs. spending scatter plots and distribution boxen/swarm plots.
+  * **Marketing Response Evaluation:**
+    * Analyzed campaign acceptance rates (`Total_Promos`) across clusters to identify high-value target segments.
   
 
