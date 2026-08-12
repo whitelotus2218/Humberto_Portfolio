@@ -46,12 +46,12 @@ Examples of Data Science Projects
   <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/churn_report1.png" width="400" alt="Model Comparison">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/churn_report1.png" width="400" alt="Model Comparison">
       <br>
       <sub><b>Model Comparison</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/churn_report2.png" width="400" alt="ROC Curves">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/churn_report2.png" width="400" alt="ROC Curves">
       <br>
       <sub><b>ROC Curves</b></sub>
     </td>
@@ -76,12 +76,12 @@ Examples of Data Science Projects
  <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ElbowAnalysis.png" width="400" alt="Model Comparison">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/ElbowAnalysis.png" width="400" alt="Model Comparison">
       <br>
       <sub><b>Elbow Analysis</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterResult.png" width="400" alt="ROC Curves">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/ClusterResult.png" width="400" alt="ROC Curves">
       <br>
       <sub><b>Cluster visualization</b></sub>
     </td>
@@ -97,12 +97,12 @@ Examples of Data Science Projects
   <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterProfileSpend.png" width="400" alt="Model Comparison">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/ClusterProfileSpend.png" width="400" alt="Model Comparison">
       <br>
       <sub><b>Cluster Spend Profile</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterPromotion.png " width="400" alt="ROC Curves">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/raw/main/images/ClusterPromotion.png " width="400" alt="ROC Curves">
       <br>
       <sub><b>Cluster classification by promotion feature</b></sub>
     </td>
