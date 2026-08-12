@@ -67,10 +67,38 @@ Examples of Data Science Projects
 * **Dimensionality Reduction & Clustering:**
   * Implemented Principal Component Analysis (PCA) to reduce dimensionality into 3 principal components.
   * Used the Elbow Method (`KElbowVisualizer`) and applied **Agglomerative Clustering** (k=4) to segment customers into distinct behavioral groups.
+ <table>
+  <tr>
+    <td align="center">
+      <img src=" https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ElbowAnalysis.png" width="400" alt="Model Comparison">
+      <br>
+      <sub><b>Elbow Analysis</b></sub>
+    </td>
+    <td align="center">
+      <img src=" https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterResult.png" width="400" alt="ROC Curves">
+      <br>
+      <sub><b>Cluster visualization</b></sub>
+    </td>
+  </tr>
+</table>
 * **Business Insights & Campaign Analysis:**
   * **Customer Behavioral Profiling:**
     * Visualized cluster segments using income vs. spending scatter plots and distribution boxen/swarm plots.
   * **Marketing Response Evaluation:**
     * Analyzed campaign acceptance rates (`Total_Promos`) across clusters to identify high-value target segments.
-  
+
+  <table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterProfileSpending.png " width="400" alt="Model Comparison">
+      <br>
+      <sub><b>Cluster Spend Profile</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/ClusterPromotion.png " width="400" alt="ROC Curves">
+      <br>
+      <sub><b>Cluster classification by promotion feature</b></sub>
+    </td>
+  </tr>
+</table>
 
