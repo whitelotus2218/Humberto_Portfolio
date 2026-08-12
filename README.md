@@ -84,7 +84,7 @@ Examples of Data Science Projects
 
 * **Business Insights & Campaign Analysis:**
   * **Customer Behavioral Profiling:**
-    * Visualized cluster segments using income vs. spending scatter plots and distribution boxen/swarm plots.
+    * Visualized cluster segments using income vs. spending scatter plots.
   * **Marketing Response Evaluation:**
     * Analyzed campaign acceptance rates (`Total_Promos`) across clusters to identify high-value target segments.
 
