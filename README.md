@@ -125,4 +125,4 @@ Examples of Data Science Projects
   * Loaded the cleaned Pandas DataFrame directly into a PostgreSQL database table (`customer`), setting up the foundation for structured querying.
 * **Business Intelligence (Power BI):**
   * Developed an interactive executive dashboard connected to the PostgreSQL warehouse to analyze shopping trends, purchasing frequency, and customer spending habits.
- 
+ ![](https://github.com/whitelotus2218/Humberto_Portfolio/blob/main/images/BISales.png)
